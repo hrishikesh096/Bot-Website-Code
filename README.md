@@ -26,4 +26,4 @@ Feel free to modify, share, and improve!
 
 This project is licensed under the [MIT License](LICENSE).
 
-https://cdn.discordapp.com/attachments/1377944217707614258/1389533299327631400/image.png?ex=6864f73a&is=6863a5ba&hm=0382dfd27c5336b789c359a4524dd70226bdd799f05eea6e9f6ec2ff017a77ab&
+![Look](https://cdn.discordapp.com/attachments/1377944217707614258/1389533299327631400/image.png?ex=6864f73a&is=6863a5ba&hm=0382dfd27c5336b789c359a4524dd70226bdd799f05eea6e9f6ec2ff017a77ab&)
